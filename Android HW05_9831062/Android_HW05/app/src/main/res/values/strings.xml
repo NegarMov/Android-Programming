@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Weather Forecast</string>
+    <string name="use_default_location">Use my current location.</string>
+    <string name="state">Province</string>
+    <string name="city">City</string>
+    <string name="show_forecast">Show Weather Forecast</string>
+    <string name="current_location">Your current location: %1$s - %2$s</string>
+    <string name="forecastTitle">%1$s Weather Forecast</string>
+    <string name="forecast_info">5-Day Weather Forecast of\n%1$s</string>
+    <string name="loading">Loading data…\nPlease wait</string>
+    <string name="temp_info">%1$s\n%2$sº ~ %3$sº</string>
+    <string name="date_info">%1$s\n%2$s</string>
+    <string name="connection_error">An error occurred while connecting to the Server.\nPlease check your internet connection and try again.</string>
+    <string name="try_again">Try Again</string>
+    <string name="fetched_at">(data fetched at: %1$s)</string>
+
+    <string-array name="states">
+        <item>Tehran</item>
+        <item>Isfahan</item>
+        <item>Semnan</item>
+        <item>Yazd</item>
+        <item>Fars</item>
+    </string-array>
+
+    <string-array name="cities">
+        <item>Tehran, Shahriar, Qarchak, Varamin, Eslamshahr</item>
+        <item>Isfahan, Naeen, Fereydunshahr, Golpayegan, Ardestan</item>
+        <item>Semnan, Damghan, Mehdishahr, Bastam, Sorkheh</item>
+        <item>Yazd, Bafq, Meybod, Mehriz, Taft</item>
+        <item>Shiraz, Neyriz, Darab, Jahrom, Kavar</item>
+    </string-array>
+</resources>

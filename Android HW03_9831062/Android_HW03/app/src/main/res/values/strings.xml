@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Library</string>
+    <string name="action_switch_layout">Switch Layout</string>
+
+    <string name="pub_info">By: %1$s - Published in: %2$s</string>
+    <string name="author_info">By: %1$s</string>
+
+    <string name="title1">Jeremy Thatcher, Dragon Hatcher</string>
+    <string name="title2">The Da Vinci Code</string>
+    <string name="title3">Explorers on the Moon</string>
+    <string name="title4">No Longer Human</string>
+    <string name="title5">Operating System Concepts</string>
+    <string name="title6">Prisoners of the Sun</string>
+    <string name="title7">Uncommon Type</string>
+
+    <string name="author1">Bruce Coville</string>
+    <string name="author2">Dan Brown</string>
+    <string name="author3">Hergé</string>
+    <string name="author4">Osamu Dazai</string>
+    <string name="author5">Abraham Silberschatz</string>
+    <string name="author6">Hergé</string>
+    <string name="author7">Tom Hanks</string>
+
+    <string name="summary1">Sixth grader Jeremy Thatcher discovers a strange magic shop he has never seen before. He enters, and his life is changed forever.\nAfter he leaves Mr. Elives’ magic shop with a strange marbled egg, it soon becomes clear that this is one pet he wasn’t prepared for! How is he supposed to keep a flame-breathing dragon with razor-sharp teeth and an out-of-control appetite in his bedroom?</string>
+    <string name="summary2">While in Paris, Harvard symbologist Robert Langdon is awakened by a phone call in the dead of the night. The elderly curator of the Louvre has been murdered inside the museum, his body covered in baffling symbols. As Langdon and gifted French cryptologist Sophie Neveu sort through the bizarre riddles, they are stunned to discover a trail of clues hidden in the works of Leonardo da Vinci—clues visible for all to see and yet ingeniously disguised by the painter.</string>
+    <string name="summary3">The classic graphic novel. Picking up where Destination Moon left off, Professor Calculus and Tintin discover a secret agent has managed to sneak onboard the rocket with plans to hijack it and abandon everyone on the moon!</string>
+    <string name="summary4">Portraying himself as a failure, the protagonist of Osamu Dazai\'s No Longer Human narrates a seemingly normal life even while he feels himself incapable of understanding human beings. Oba Yozo\'s attempts to reconcile himself to the world around him begin in early childhood, continue through high school, where he becomes a "clown" to mask his alienation, and eventually lead to a failed suicide attempt as an adult.</string>
+    <string name="summary5">The ninth edition of Operating System Concepts has been revised to keep it fresh and up-to-date with contemporary examples of how operating systems function, as well as enhanced interactive elements to improve learning and the student\'s experience with the material.</string>
+    <string name="summary6">The classic graphic novel. Tintin discovers that one of the last Incan descendants has kidnapped his missing friend, Professor Calculus. Tintin and Captain Haddock follow the kidnapper to Peru - can they save Calculus?</string>
+    <string name="summary7">A collection of 17 wonderful short stories showing that two-time Oscar winner Tom Hanks is as talented a writer as he is an actor.\nThey are surprising, intelligent, heartwarming, and, for the millions and millions of Tom Hanks fans, an absolute must-have! </string>
+
+    <string name="date1">2007</string>
+    <string name="date2">2003</string>
+    <string name="date3">1976</string>
+    <string name="date4">1973</string>
+    <string name="date5">2010</string>
+    <string name="date6">1975</string>
+    <string name="date7">2017</string>
+</resources>
